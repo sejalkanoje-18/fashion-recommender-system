@@ -45,7 +45,7 @@ The dataset given contains the following elements :
 We are going to use a total of 'Four approaches' for recommending the apparel as following.
 
 ```bash
-  1.Bag of words model
+1.Bag of words model
 
 2.tf-idf model
 
@@ -60,6 +60,31 @@ We are going to use a total of 'Four approaches' for recommending the apparel as
 # Jupyter Notebook
 to play a little bit with/and test models, and to observe Data pre-processing follow these steps :
 ```bash
-  * Run the jupyter notebook by jupyter notebook Fashion_recommender_notebook.ipynb
+* Run the jupyter notebook by jupyter notebook Fashion_recommender_notebook.ipynb
 * Start executing the cells by Shift+Enter
 ```
+To run this app, you will need to follow these 3 steps:
+1. Requirements
+- a Laptop (obviously 😄)
+
+- Text Editor or IDE (eg. vscode, PyCharm)
+
+- Git installed on your Laptop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
