@@ -69,12 +69,51 @@ To run this app, you will need to follow these 3 steps:
 
 - Text Editor or IDE (eg. vscode, PyCharm)
 
-- Git installed on your Laptop.
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your Laptop.
+  
+2. Install Python and Pipenv
+- [Python3](https://www.python.org/downloads/) 🐍
+
+- [Pipenv](https://pipenv-es.readthedocs.io/es/stable/)
+
+3. Local Setup and Running on Windows, Linux and Mac OS
+   
+```bash
+# Clone this repository into the directory of your choice
+$ git clone https://github.com/BouzCS/Fashion_Recommender_System.git
+
+# Move into project folder
+$ cd Fashion_Recommender_System/App
+
+# Install from Pipfile
+$ pipenv install -r requirements.txt 
+
+# Activate the Pipenv shell
+$ pipenv shell
+
+# Create database tables
+$ python manage.py migrate
+
+# Create superuser account
+$ python manage.py createsuperuser
+
+# Start server
+$ python manage.py runserver
+
+# Copy the IP address provided once your server has completed building the site. (It will say something like >> Serving at 127.0.0.1....).
+
+# Open the address in the browser
+>>> http://127.0.0.1:XXXX
 
 
+# Happy Testing 🤗
+```
 
+## 📸 Screenshots of the website
 
-
+Home Page
+[Home Page]
+(https://github.com/BouzCS/Fashion_Recommender_System/blob/main/Images/Home%20page.jpeg?raw=true)
 
 
 
