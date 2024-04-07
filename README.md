@@ -112,8 +112,7 @@ $ python manage.py runserver
 ## 📸 Screenshots of the website
 
 Home Page
-[Home Page]
-(https://github.com/BouzCS/Fashion_Recommender_System/blob/main/Images/Home%20page.jpeg?raw=true)
+[Home Page](https://github.com/BouzCS/Fashion_Recommender_System/blob/main/Images/Home%20page.jpeg?raw=true)
 
 
 
