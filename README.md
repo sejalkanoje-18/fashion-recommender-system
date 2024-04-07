@@ -12,7 +12,7 @@ This filtering is based on the description or some data provided for that produc
 ## Collaborative filtering
 The recommendations are done based on the user’s behavior. History of the user plays an important role. For example, if the user ‘A’ likes ‘Coldplay’, ‘The Linkin Park’ and ‘Britney Spears’ while the user ‘B’ likes ‘Coldplay’, ‘The Linkin Park’ and ‘Taylor Swift’ then they have similar interests. So, there is a huge probability that the user ‘A’ would like ‘Taylor Swift’ and the user ‘B’ would like ‘Britney Spears’. This is the way collaborative filtering is done.
 
-[Two types of collaborative filtering techniques are used]
+[ Two types of collaborative filtering techniques are used ]
 
 User-User collaborative filtering
 Item-Item collaborative filtering
