@@ -16,8 +16,10 @@ The recommendations are done based on the user’s behavior. History of the user
 Two types of collaborative filtering techniques are used ]
 
 [User-User collaborative filtering](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
+
 [Item-Item collaborative filtering](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
 
 Summary :
-## Screenshots
+
+![Fashion-Recommender-System](https://camo.githubusercontent.com/20993343708ae9ac9184da2f00ed7754a66840226fc986c5a41cefb7d3189490/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f312a6d7a39747a50314c6a5042686d695758654879516b512e706e67)
 
