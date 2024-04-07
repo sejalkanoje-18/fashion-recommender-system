@@ -6,7 +6,7 @@ Personalized product recommendations are the alternative way of navigating throu
 💡 RECOMMENDATION SYSTEMS
 Recommender systems are one of the most successful and widespread applications of machine learning technologies in business. Recommendation systems help to increase the business revenue and help customers to buy the most suitable product for them. Now, we’ll look towards different types of filtering used by recommendation engines.
 
-[##Content-based filtering](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
+## [Content-based filtering](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
 
 This filtering is based on the description or some data provided for that product. The system finds the similarity between products based on its context or description. The user’s previous history is taken into account to find similar products the user may like.
 
